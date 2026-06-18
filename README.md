@@ -19,12 +19,14 @@ Reviewing large volumes of agreements manually can be time-intensive and prone t
 The objective of this project was to improve efficiency by automating the identification of key contractual language, allowing reviewers to focus on exceptions rather than performing repetitive document searches.
 
 Technologies Used
+
 Python
 PDF Processing Libraries
 Regular Expressions (Regex)
 Data Export and Reporting
 
 Key Features
+
 Automated PDF text extraction
 Keyword and phrase identification
 Page-level tracking of findings
@@ -32,12 +34,14 @@ Exportable validation results
 Multi-document comparison capabilities
 
 Future Enhancements
+
 Fuzzy matching for similar language detection
 Contract clause classification
 Interactive review dashboard
 Exception reporting and risk scoring
 
 Skills Demonstrated
+
 Process Automation
 Data Validation
 Text Analytics
